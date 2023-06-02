@@ -9,9 +9,9 @@
         "python",
         "puii"
     ],
-    "repository": "https://github.com/AellyXD/Puii",
+    "repository": "https://github.com/massom0097773/Puii",
     "website": "https://aelly.tk",
-    "success_url": "https://t.me/AellyXD",
+    "success_url": "https://t.me/massomop",
     "stack": "container",
     "env": {
         "API_ID": {
